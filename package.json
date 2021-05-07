@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jrc3123/myserver#readme",
   "dependencies": {
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
